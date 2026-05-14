@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.11-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [2.0.10] - 2026-05-04
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency. [#48225]
@@ -61,6 +65,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial version. [#37476]
 
+[2.0.11-alpha]: https://github.com/Automattic/patchwork-redefine-exit/compare/v2.0.10...v2.0.11-alpha
 [2.0.10]: https://github.com/Automattic/patchwork-redefine-exit/compare/v2.0.9...v2.0.10
 [2.0.9]: https://github.com/Automattic/patchwork-redefine-exit/compare/v2.0.8...v2.0.9
 [2.0.8]: https://github.com/Automattic/patchwork-redefine-exit/compare/v2.0.7...v2.0.8
